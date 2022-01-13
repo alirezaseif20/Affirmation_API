@@ -1,4 +1,4 @@
-# api2
+# Affirmations API
 
 A new Flutter project.
 
